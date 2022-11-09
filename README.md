@@ -1,23 +1,12 @@
-#  <h1 style: align="center" color: red >Bem Vindo (a) </h1>  <h3 style: align="center" > Desenvolvedor a 9 meses, sempre em busca de crescer profissionalmete como programador  </h3> 
+#  <h1 style: align="center" color: red >Bem Vindo (a) </h1>  <h3 style: align="center" > Seja muito bem vindo ao meu perfil , sou Cleber tenho 23 anos moro em São Paulo estudante de desenvolvimento Back-end Java , no momento melhorando minhas hard skills na  Alura seguindo a trilha completa de desenvolvimento Back-end todo dia eu me disponho a aprender e praticar para que eu possa entrar no mercado de trabalho como desenvolvedor  
 
 <p>(mais abaixo deixei um botão clicavel que te direcionara para meu linkdin voce pode ficar a vontade para entrar em contato comigo )&#128513;</p>
 
-   <div align="center">
-    <a href="https://github.com/Cleber-0101">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cleber-0101&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleber-0101&layout=compact&langs_count=7&theme=dark"/>
-   </div> 
-   
+  
    
     
 
-   <div 
-          style: align="center" style ="display: inline_block"><br>
-          <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-         <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-          <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div> 
-   
+
    
    
    
