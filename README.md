@@ -1,4 +1,7 @@
-#  <h1 style: align="center" color: red >Bem Vindo (a) </h1>  <h3 style: align="center" > Be very welcome to my profile , I am Cleber I am 23 years old I live in Sao Paulo Java Back-end development student
+#  <h1 style: align="center" color: red >Bem Vindo (a) </h1>  <h3 style: align="center" > Olá, eu sou o Cleber Batistaa,  Atualmente focando meus estudos no desenvolvimento Back-End .
+
+Comecei no mundo da programação há menos de um ano e desde então me dedico muito em aprender e criar projetos pessoais. Fique por aqui pegue um ca
+
 <p style: align="center" >(Gostaria de saber mais sobre mim , clique no link a baixo  )&#128513;</p>
 
   
