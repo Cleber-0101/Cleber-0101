@@ -1,6 +1,6 @@
 #  <h1 style: align="center" color: red >Bem Vindo (a) </h1>  <h3 style: align="center" > Olá, eu sou o Cleber Batistaa,  Atualmente focando meus estudos no desenvolvimento Back-End .
 
-Comecei no mundo da programação há menos de um ano e desde então me dedico muito em aprender e criar projetos pessoais. Fique por aqui pegue um ca
+Comecei no mundo da programação há menos de um ano e desde então me dedico muito em aprender e criar projetos pessoais.
 
 <p style: align="center" >(Gostaria de saber mais sobre mim , clique no link a baixo  )&#128513;</p>
 
