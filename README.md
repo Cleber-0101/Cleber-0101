@@ -11,7 +11,7 @@
  <div align="center">&#128293; Programador &#128293;</div>
  <br>
  
-   <p align= "center">✔ Atualmente trabalho como programador em uma startup , estudando tecnologia desde  2022 e estou me especializando em desenvolvimento desenvolviento de aplicativos usando flutter . Qualquer dúvida, sugestão e convite para colaborações você pode entrar em contato comigo pelo meu [LinkedIn] ou email </p>
+   <p align= "center">✔ Atualmente trabalho como programador em uma startup , estudando tecnologia desde  2022 . Qualquer dúvida, sugestão e convite para colaborações você pode entrar em contato comigo pelo meu [LinkedIn] ou email </p>
 
   <br>
   
