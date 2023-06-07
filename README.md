@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=116B8B&height=130&section=header"/>
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&weight=500&size=40&pause=1000&color=159996&center=true&vCenter=true&width=1000&height=100&lines=Hi!+My+name+is+Cleber+Batista;I'm+from+Brazil;How+are+you?;Programador+em+desenvolvimento!;Construindo+minha+sorte.)](https://git.io/typing-svg)
   
  <img src="https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg" align="center" width="900" >
