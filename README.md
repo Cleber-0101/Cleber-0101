@@ -5,7 +5,7 @@
   
 
 
-## Bem vindo ao meu perfil no Git Hub 
+## Bebendo muito café , lendo bons livros , quebrando muito codigo e movido a Lofi
 - 🖋 Início desta jornada na programação: Setembro/22.
 - 🤖 Desenvolvedor de software
  
