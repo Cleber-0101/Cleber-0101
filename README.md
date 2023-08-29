@@ -5,7 +5,7 @@
   
 
 
-## Bebendo muito café , lendo bons livros , quebrando muito codigo e movido a Lofi
+## Bebendo muito café , lendo bons livros e desenvolvendo varios projetos 
 - 🖋 Início desta jornada na programação: Setembro/22.
 - 🤖 Desenvolvedor de software
  
