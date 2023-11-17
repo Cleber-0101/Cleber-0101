@@ -8,6 +8,7 @@
 ## Bebendo muito café , lendo bons livros e desenvolvendo varios projetos 
 - 🖋 Início desta jornada na programação: Setembro/22.
 - 🤖 Desenvolvedor de software
+- Cursando Analise e Desenvolvimento de Sistemas 
  
 <div align="center"> <a href="https://www.linkedin.com/in/cleber-batista-bab520200/?locale=en_US" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/69852246/231045211-65e3421e-906e-42b4-a15f-a2f4d60b1ffd.png"/></a></div>
 
