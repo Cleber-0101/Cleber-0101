@@ -10,6 +10,7 @@
 <div align="center">
   <img width="400" alt="coding" src="https://www.lambdatest.com/resources/images/news24.gif">
 </div>
+
 <br>
 <br>
 <br>
@@ -45,6 +46,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
+<br>
+<br>
+<br>
+
+<img src="https://raw.githubusercontent.com/Cleber-0101/Cleber-0101/output/snake.svg" alt="Snake animation" />
 
 
 
