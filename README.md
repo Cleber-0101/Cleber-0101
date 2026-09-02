@@ -1,3 +1,4 @@
+''join 
 {
   "nome": "Cleber Batista",
   "cargo": "Analista de TI Jr em transição para Engenharia de Software",
@@ -37,3 +38,4 @@
     "portfolio": "https://cleber-0101.github.io/Site-portif-lio/"
   }
 }
+''join
