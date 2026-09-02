@@ -1,19 +1,20 @@
-```json
 {
   "nome": "Cleber Batista",
-  "cargo": "Analista de TI Jr e Estudante de Engenharia de Software",
+  "cargo": "Analista de TI Jr em transição para Engenharia de Software",
   "localizacao": "São Paulo, Brasil",
-
   "experiencia": "2+ anos na área de tecnologia",
 
   "especialidades": [
     "Back-end",
-    "Front-end básico",
     "Node.js",
-    "JavaScript",
-    "Java",
-    "Algoritmos e Estrutura de Dados",
+    "Express.js",
+    "JavaScript (ECMAScript 2025)",
+    "HTML",
+    "CSS",
+    "React",
+    "Java + Spring Boot (fundamentos)",
     "APIs REST",
+    "Algoritmos e Estruturas de Dados",
     "Lógica de Programação"
   ],
 
@@ -21,6 +22,12 @@
     "Arquitetura de Software",
     "Design Systems",
     "Node.js avançado",
+    "TypeScript",
+    "SOLID",
+    "Testes de Software",
+    "Docker",
+    "AWS",
+    "Programação Orientada a Objetos",
     "Banco de Dados"
   ],
 
@@ -30,4 +37,3 @@
     "portfolio": "https://cleber-0101.github.io/Site-portif-lio/"
   }
 }
-```
