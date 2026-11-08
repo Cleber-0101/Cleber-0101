@@ -1,0 +1,37 @@
+''join
+{
+  "nome": "Cleber Batista",
+  "cargo": "Backend Developer Jr",
+  "localizacao": "São Paulo, Brasil",
+
+  "resumo": "Desenvolvedor back-end com experiência em Node.js, TypeScript e JavaScript, construindo APIs REST com SQL e deploy. Comecei no desenvolvimento como Jovem Aprendiz criando APIs com Java e Spring Boot e depois atuei como Desenvolvedor Trainee com Flutter, C# e .NET. Também tenho trajetória em suporte e infraestrutura de TI, o que me deu prática em troubleshooting, leitura de logs, Linux e integração entre sistemas.",
+
+  "stack": [
+    "Node.js",
+    "TypeScript",
+    "JavaScript",
+    "Express.js",
+    "Java + Spring Boot",
+    "APIs REST",
+    "PostgreSQL",
+    "MySQL",
+    "React",
+    "HTML",
+    "CSS",
+    "n8n",
+    "Git"
+  ],
+
+  "projeto_destaque": {
+    "nome": "Sistema de Bilheteria (ticket-sales-api)",
+    "descricao": "API REST de venda de ingressos para eventos: parceiros criam eventos e ingressos, clientes compram e cancelam.",
+    "tecnologias": ["TypeScript", "Express", "MySQL", "bcrypt"],
+    "repositorio": "https://github.com/Cleber-0101/ticket-sales-api"
+  },
+
+  "contato": {
+    "linkedin": "https://www.linkedin.com/in/cleber-developer/",
+    "portfolio": "https://cleber-0101.github.io/portfolio/"
+  }
+}
+''join
