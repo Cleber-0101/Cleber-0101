@@ -33,4 +33,4 @@ Venho de mais de 2 anos em suporte de TI (N1 a N3), dando suporte a ERPs, redes 
 TypeScript avançado · SOLID e Arquitetura de Software · Testes automatizados · Docker · AWS · Java com Spring Boot
 
 ### 📫 Contato
-[LinkedIn](https://www.linkedin.com/in/cleber-batista-bab520200) · [Portfólio](https://cleber-0101.github.io/portfolio/)
+[LinkedIn](https://www.linkedin.com/in/cleber-developer/) · [Portfólio](https://cleber-0101.github.io/Site-portif-lio/)
